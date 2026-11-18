@@ -6,7 +6,7 @@
 
 1. ファイル名は `clips/g<番号>-<英語スラッグ>.mp4`（例：`clips/g17-slow-motion.mp4`）
 2. このリポジトリの `main` ブランチへ commit + push する
-3. 動画URLは `https://raw.githubusercontent.com/komoni/technique-clips/main/clips/<ファイル名>`
+3. 動画URLは `https://cdn.jsdelivr.net/gh/komoni/technique-clips@main/clips/<ファイル名>（jsDelivr経由。video/mp4 で配信される）`
 4. そのURLを技法辞書の該当技法の video_url へ登録する（仕組み整備へ依頼、またはスペースの編集フォームから）
 
 ## 形式の目安
